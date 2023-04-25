@@ -1,6 +1,6 @@
 # Data_Analysis_on_medical_appointments
  
-<p id="description">The following project will examine possible explanations for patients not showing up for their medical appointments.</p>
+<p id="description">The following project will proceed with Exploratory Data Analysis for patients that do not show up for their medical appointments.</p>
     
 <h2>🧐 Features</h2>
 
