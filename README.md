@@ -7,7 +7,7 @@
 Here're some of the project's best features:
 
 *   SOTA Data Visualization 
-*   Custom Classes for Distribution and Plotting
+*   Custom Classes for Data Distribution and Plotting
 
 <h2>🛠️ Installation Steps:</h2>
 
